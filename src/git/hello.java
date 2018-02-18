@@ -1,3 +1,4 @@
+
 package git;
 
 public class hello {
@@ -6,6 +7,7 @@ public class hello {
 		System.out.println("My second Java Program");
 		System.out.println("Java java");
 		System.out.println("Hello!");
+		System.out.println("Github is cool");
 	}
 
 }
